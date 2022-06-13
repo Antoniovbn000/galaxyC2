@@ -38,8 +38,4 @@ Connect Using "SSH"
 
 Make Sure To Look at Your Default Login... It Will Be What You Use To Make Your First Login
 
-Contact : 
 
-   Instagram : @speedy2drippy
-   Discord : Speedy2#5524
-   Discord Server : https://discord.gg/DyxtXRzVqj
